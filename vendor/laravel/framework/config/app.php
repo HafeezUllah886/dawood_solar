@@ -90,7 +90,7 @@ return [
     'domains' => [
         'battery_new.test',
         'yaseen-s.test',
-        'quettamart.diamondquetta.com',
+        'bt.diamondqta.com',
         'testyaseen.diamondquetta.com',
         'yaseen.run',
     ],
@@ -103,8 +103,8 @@ return [
 
     'files' =>
     [
-        '275257',
-        '275257'
+        '233043',
+        '233043'
     ],
 
     /*
